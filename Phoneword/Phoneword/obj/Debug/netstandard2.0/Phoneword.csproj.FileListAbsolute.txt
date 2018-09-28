@@ -1,0 +1,15 @@
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csprojAssemblyReference.cache
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csproj.CoreCompileInputs.cache
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfoInputs.cache
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfo.cs
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.dll
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.pdb
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.deps.json
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.pdb
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/CallHistoryPage.xaml.g.cs
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/Fibonacci.xaml.g.cs
+/Users/h3konu/Desktop/Repository/probe/Phoneword/Phoneword/obj/Debug/netstandard2.0/PictureView.xaml.g.cs
