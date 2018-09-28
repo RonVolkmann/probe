@@ -1,11 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "probe.Android", "probe.Android\probe.Android.csproj", "{9AC1DA26-5926-4090-82E7-03F4E77D14E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoneword.Android", "probe.Android\Phoneword.Android.csproj", "{9AC1DA26-5926-4090-82E7-03F4E77D14E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "probe.iOS", "probe.iOS\probe.iOS.csproj", "{BC3CACDF-34CC-41A3-959B-E8F4EDA08D77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "probe", "probe\probe.csproj", "{41806315-92C2-4325-A16A-6A2935ABCE5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoneword", "probe\Phoneword.csproj", "{41806315-92C2-4325-A16A-6A2935ABCE5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

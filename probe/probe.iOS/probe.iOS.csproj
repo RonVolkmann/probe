@@ -96,6 +96,7 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PhoneDialer.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -155,7 +156,7 @@
   <ItemGroup>
     <ProjectReference Include="..\probe\probe.csproj">
       <Project>{41806315-92C2-4325-A16A-6A2935ABCE5A}</Project>
-      <Name>probe</Name>
+      <Name>Phoneword</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
